@@ -1,0 +1,14 @@
+{
+  "name": "ArchieveFiles-Plug&Play",
+  "description": "Project",
+  "main": "Archieve Temp Files.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6811.18409",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
